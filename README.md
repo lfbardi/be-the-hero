@@ -12,3 +12,7 @@
 - nodemon
 - jest
 - supertest
+- react-icons
+- axios
+- intl
+- expo
